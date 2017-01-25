@@ -1,5 +1,4 @@
-error = "{0} not installed. Need help? Post to Piazza, talk to classmates, \
-or come to office hours."
+error = "{0} not installed. Need help? Post to Piazza, talk to your classmates, or come to office hours."
 success = "{0} is installed. Yay!"
 
 try:
